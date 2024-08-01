@@ -1,0 +1,29 @@
+The command <npm create vite@latest .> is used to create a new project using Vite, a fast frontend build tool. 
+
+1.express:
+A popular web framework for Node.js, used to build web applications and APIs.
+It simplifies handling HTTP requests, routing, middleware, and more.
+
+2.dotenv:
+A module that loads environment variables from a .env file into process.env.
+It helps keep sensitive configuration data (like API keys, database credentials) out of your source code.
+
+3.cookie-parser:
+Middleware that parses cookies attached to the client request object.
+It makes it easy to read and manipulate cookies in Express applications.
+
+4.bcryptjs:
+A library for hashing passwords.
+It’s often used to securely hash passwords before storing them in a database, and to compare hashed passwords during authentication.
+
+5.mongoose:
+An Object Data Modeling (ODM) library for MongoDB and Node.js.
+It provides a straightforward, schema-based solution to model your application data and includes built-in type casting, validation, query building, and business logic hooks.
+
+6.socket.io:
+A library that enables real-time, bidirectional communication between web clients and servers.
+It’s often used for applications like chat apps, live notifications, and online gaming.
+
+7.jsonwebtoken:
+A library to work with JSON Web Tokens (JWT).
+JWTs are often used for secure data transmission and authentication. This library helps in creating, signing, verifying, and decoding JWTs.
